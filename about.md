@@ -4,6 +4,6 @@ title: About
 permalink: /about/
 ---
 
-I am freelance developer. Currently doing more in backend, focused in Python and Django.
+I am currently a student at the University of Virginia. 
 
 email: dsa8cx@virginia.edu
